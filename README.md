@@ -1,3 +1,12 @@
+# ⚠️ Nova Wallet Android moved to new repository
+
+We have transitioned from open sourcing Nova Wallet code based on the Treasury grant completion to the **full open source** mode
+
+Link to the Nova Wallet Android open source code repository:
+
+https://github.com/novasamatech/nova-wallet-android
+
+
 ### Nova Wallet Android - Next get mobile app for Polkadot & Kusama ecosystem
 
 [![](https://img.shields.io/twitter/follow/NovaWalletApp?label=Follow&style=social)](https://twitter.com/NovaWalletApp)
